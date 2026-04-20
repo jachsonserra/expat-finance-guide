@@ -1,0 +1,11 @@
+Country,Annual Income (€),Tax Rate (Approx),Estimated Tax (€),Notes
+Germany,50000,~42%,21000,Middle tax bracket, includes solidarity surcharge
+Germany,30000,~30%,9000,Lower bracket
+Spain,50000,~37%,18500,Regional variations apply
+Spain,30000,~30%,9000,
+Portugal,50000,~37.2%,18600,NHR regime may reduce to 20% for certain income
+Portugal,30000,~35%,10500,
+United Kingdom,50000,~40%,20000,GBP converted to EUR approx
+United Kingdom,30000,~20%,6000,
+,,,,
+Instructions: Enter your annual income in euros. Use as rough estimate only. Consult a tax advisor for exact calculation.,,,,

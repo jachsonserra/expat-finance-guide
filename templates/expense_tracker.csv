@@ -1,0 +1,6 @@
+Date,Amount (€),Currency,Category,Description,Payment Method
+,,,,,
+Example: 2026-01-15,4.50,EUR,Coffee,Dining Out,Card
+Example: 2026-01-16,89.30,EUR,Supermarket,Groceries,Card
+,,,,,
+Instructions: Fill in your daily expenses. Use the same categories as Monthly Budget for consistency.,,,,,
